@@ -6,7 +6,7 @@ Hello, my name is Nicolas and I'm a french engineer currently specializing in So
 I am passionate about solving problems and designing solutions.
 
 - 🔭 I’m currently working on a data management application for MDesign and a Java Crypto trading bot.
-- 🌱 I’m currently learning Java, Rust, React and Data Structures
+- 🌱 I’m currently learning Java, Rust, Angular and Data Structures
 - 👯 I’m looking to collaborate on Backend and Systems projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicolasambry/) 
 

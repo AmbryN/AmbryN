@@ -7,7 +7,7 @@ I am passionate about solving problems and designing solutions.
 
 - 🔭 I’m currently working on a realtime chat appplication and a Java Crypto trading bot.
 - 💼 I’m proficient in Java and Angular
-- 🔨 I use tools like Docker
+- 🔨 I use tools like Docker and Linux
 - 🌱 I’m currently learning Kotlin, Rust and Advanced Data Structures
 - 👯 I’m looking to collaborate on Backend and Systems projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicolasambry/) 
@@ -20,7 +20,8 @@ I am passionate about solving problems and designing solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 60px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 80px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 80px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="height: 80px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="height: 80px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 80px;"/> 
 </div>  
 
 ### Learning

@@ -21,7 +21,8 @@ I am passionate about solving problems and designing solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 80px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 80px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="height: 80px;"/>  
-</div>   
+</div>  
+
 ### Learning
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="height: 80px;" />
